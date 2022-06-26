@@ -8,7 +8,7 @@ It allows nurses to keep track of the patients and their diseases in real time a
 * username: admin
 * password: admin
 
-YouTube Video - 
+YouTube Video - https://youtu.be/jIStE4vUWj4
 
 # Prerequisites
 - [x] Node.js 6.9.1 or later
